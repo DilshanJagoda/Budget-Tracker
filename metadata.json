@@ -1,0 +1,6 @@
+{
+  "name": "StudentFlow - Dilshan Jagoda",
+  "description": "Comprehensive student budget tracking and personal finance application designed for university students living independently in Germany.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
